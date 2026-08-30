@@ -1,0 +1,45 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #f7f3ed;
+  color: #293241;
+  font-family: Georgia, serif;
+}
+
+h1, h2, h3 {
+  color: #7b2d26;
+}
+
+a {
+  color: #33658a;
+}
+
+a:hover {
+  color: #7b2d26;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 32px;
+  padding-bottom: 18px;
+  border-bottom: 1px solid #d9cec2;
+}
+
+.site-nav a {
+  padding: 8px 14px;
+  border: 1px solid #33658a;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #33658a;
+  font-weight: bold;
+}
+
+.site-nav a:hover {
+  background-color: #33658a;
+  color: white;
+}
