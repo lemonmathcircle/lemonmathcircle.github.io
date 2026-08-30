@@ -1,6 +1,7 @@
 ---
 layout: default 
 ---
+{% include nav.html %}
 # Lemon Math Circle
 ## Local math circle for bay area high school students!
 Do you want to explore mathematics beyond school? Are you interested in proof-based mathematics and understanding mathematics at a deeper level? Do you want to meet other local high school students that are interested in learning higher math? Do you like collaborating with students to solve problems together? Are you interested in some interesting applications of higher math? (such as graph theory in AI)
