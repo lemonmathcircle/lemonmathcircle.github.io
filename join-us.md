@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About
+permalink: /join-us/
+
 ---
 
 {% include nav.html %}
