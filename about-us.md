@@ -1,7 +1,8 @@
 ---
 layout: default
 title: About Us
+permalink: /about-us/
 ---
 {% include nav.html %}
 # About Us
-We'll talk about us here!
+## Founders
