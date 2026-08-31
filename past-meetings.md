@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Past Meetings
+permalink: /past-meetings/
 ---
 {% include nav.html %}
 # Past Meetings
